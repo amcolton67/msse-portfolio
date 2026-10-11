@@ -58,6 +58,4 @@ Database Systems
 Project Management
 
 ## Contact  
-amcolton67@gmail.com |  
-## Contact  
-amcolton67@gmail.com |  
+amcolton67@gmail.com 
